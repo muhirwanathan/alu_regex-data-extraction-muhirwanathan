@@ -1,8 +1,3 @@
-Here’s a detailed `README.md` file tailored for your **Formative One - Regex Onboarding Hackathon** project:
-
----
-
-````markdown
 # 🔍 ALU Regex Data Extraction - {YourUsername}
 
 ## 📘 Project Overview
@@ -21,8 +16,8 @@ This repository contains solutions for extracting the following data types using
 - ✅ Currency Amounts
 
 > _Language Used:_ **Python** / **JavaScript**  
-> _Author:_ **{Your Full Name}**  
-> _GitHub Repo:_ `alu_regex-data-extraction-{YourUsername}`
+> _Author:_ **MUHIRWA Nathan**  
+> _GitHub Repo:_ `(https://github.com/muhirwanathan/alu_regex-data-extraction-muhirwanathan/)`
 
 ---
 
@@ -131,23 +126,4 @@ All regex expressions are tested against:
 * [x] Clean code structure and meaningful commits
 * [x] Edge case handling
 * [x] Testable output included
-
----
-
-## 📄 License
-
-This project is licensed for educational and demonstrative use only.
-
----
-
-## 🙌 Acknowledgements
-
-Thanks to the ALU faculty and the Regex Hackathon team for this engaging and real-world inspired challenge!
-
----
-
-```
-
-Let me know if you want it personalized with your actual GitHub username or if you're using **Python** vs **JavaScript**, so I can finalize it for you.
-```
 
